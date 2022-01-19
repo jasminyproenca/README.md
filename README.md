@@ -6,7 +6,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasminyproenca&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasminyproenca&layout=compact)](https://github.com/jasminyproenca/github-readme-stats)
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/jasminyproenca/)](https://github.com/jasminyproenca) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasminyproenca/)](https://www.linkedin.com/in/jasminyproenca/)
